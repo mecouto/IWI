@@ -1,0 +1,25 @@
+
+    * {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+
+    h1 {
+        color: #1C2B67;
+    }
+
+    h2 {
+        color: #365D86;
+    }
+
+    h3 {
+        color: #5893A4;
+    }
+
+    h4 {
+        color: #808080;
+    }
+
+    p {
+        text-align: justify;
+        text-indent: 2em;
+    }
